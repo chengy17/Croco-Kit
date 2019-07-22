@@ -3,8 +3,7 @@
     "version": "1.1.0",
     "description": "Extension for YahBoom YB_Croco_Kit V1.1.0",
     "dependencies": {
-        "core": "*",
-        "LEDBit": "github:lzty634158/LED-Bit"
+        "core": "*"   
     },
     "files": [
         "README.md",
